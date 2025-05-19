@@ -1,4 +1,14 @@
 [
-  { "vorname": "Alina", "nachname": "Runge" },
-  { "vorname": "Emre", "nachname": "Milijic" }
+  {
+    "vorname": "Alina",
+    "nachname": "Runge"
+  },
+  {
+    "vorname": "Emre",
+    "nachname": "Milijic"
+  },
+  {
+    "vorname": "Max",
+    "nachname": "Mustermann"
+  }
 ]
